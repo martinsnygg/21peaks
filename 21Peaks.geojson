@@ -8,7 +8,7 @@
 { "type": "Feature", "properties": { "name": "Rävabacken", "desc": "Olofströms kommun, Blekinge län", "type": "30", "elev": 189 }, "geometry": { "type": "Point", "coordinates": [ 14.526937, 56.441533 ] } },
 { "type": "Feature", "properties": { "name": "Storvätteshågna", "desc": "Älvdalens kommun, Dalarnas län", "type": "30", "elev": 1204 }, "geometry": { "type": "Point", "coordinates": [ 12.45, 62.116658 ] } },
 { "type": "Feature", "properties": { "name": "Stora Korpimäki \/ Stora Korpmägg", "desc": "Ockelbo kommun, Gävleborgs län", "type": "30", "elev": 711 }, "geometry": { "type": "Point", "coordinates": [ 16.2920748387, 60.9892704313 ] } },
-{ "type": "Feature", "properties": { "name": "Ölmesberg", "desc": "Halmstads kommun, Hallands län", "type": "30", "elev": 236 }, "geometry": { "type": "Point", "coordinates": [ 13.031822930200001, 56.726939509799998 ] } },
+{ "type": "Feature", "properties": { "name": "Ölmesberg", "desc": "Halmstads kommun, Hallands län", "type": "30", "elev": 236 }, "geometry": { "type": "Point", "coordinates": [ 13.585415, 57.032336 ] } },
 { "type": "Feature", "properties": { "name": "Helgasfjället", "desc": "Bergs kommun, Jämtlands län", "type": "30", "elev": 1796 }, "geometry": { "type": "Point", "coordinates": [ 12.452745, 62.903883 ] } },
 { "type": "Feature", "properties": { "name": "Tomtabacken", "desc": "Nässjö kommun, Jönköpings län", "type": "30", "elev": 377 }, "geometry": { "type": "Point", "coordinates": [ 14.470154, 57.500443 ] } },
 { "type": "Feature", "properties": { "name": "Grönsved", "desc": "Vimmerby kommun, Kalmar län", "type": "30", "elev": 292 }, "geometry": { "type": "Point", "coordinates": [ 15.5122234481, 57.735037593800001 ] } },
